@@ -1,4 +1,3 @@
-# DataScience
 data	temp	pH	turbidez	fosforo	N2amonia	N2k	nitrato	nitrito	dbo	ppt	od
 30/01/1990	27	7,2	42	0,151	0,22	0,93	0,37	0,09	6	0	6,2
 15/03/1990	25	7,2	45	0,14	0,26	1,08	0,36	0,13	3	0	5,4
